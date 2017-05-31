@@ -1,0 +1,21 @@
+{
+    "name": "raphaelbsr/yii2-cardgridview",
+    "description": "The CardGridView is used to display data in a card cells grid using bootstrap grid system",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Raphael Barbosa",
+            "email": "raphael.barbosa@i9solucoesweb.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "raphaelbsr\\cardgridview\\": ""
+        }
+    }
+}
